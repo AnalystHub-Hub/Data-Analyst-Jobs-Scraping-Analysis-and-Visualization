@@ -10,7 +10,7 @@
 
 ### Project Overview 🕮
 
-It was exciting to start a career in data analysis, but I had a lot of questions. In addition to the various job categories included in the relatively broad field of “data science,” I want to find out which regions of the world has the highest data analyst job demand, which would result in higher pay and better working conditions. What distinguishes working as a data analyst as an entry, junior, or senior levels in a company. We will also observe the requirements needed to be hired in any of the job levels.
+It was exciting to start a career in data analysis, but I had a lot of questions. In addition to the various jobs related to “data analytics” I found out which regions of the world has the highest data analyst job demand, which would result in higher pay and better working conditions. What distinguishes working as a data analyst as an entry, junior, or senior levels in a company. We will also observe the requirements needed to be hired in any of the job levels.
 🚀 📈 ### Languages and Tools 👨‍💻
 
 ```http
