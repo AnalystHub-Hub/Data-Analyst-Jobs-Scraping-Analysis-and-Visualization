@@ -3,7 +3,7 @@
 
 
 
-`Follow link to have a glance at the complete project` [Read More](https://medium.com/@njimonda.co/data-analyst-jobs-scraping-analysis-and-visualization-b96071a2530b)
+`Follow link to have a glance at the complete project` [Read More](https://njimonda.github.io/jobSearchDemo/)
 
 ![Logo](https://miro.medium.com/max/640/1*oQef3es9rVrDVlg8PR7Rsg.webp)
 
