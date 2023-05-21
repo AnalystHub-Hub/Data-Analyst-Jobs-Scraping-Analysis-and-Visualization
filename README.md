@@ -3,7 +3,7 @@
 
 
 
-`Follow link to have a glance at the complete project` [Read More](https://njimonda.github.io/jobSearchDemo/)
+`Follow link to have a glance at the complete project` [Read More](https://njmondoa.github.io/jobSearchDemo/)
 
 ![Logo](https://miro.medium.com/max/640/1*oQef3es9rVrDVlg8PR7Rsg.webp)
 
